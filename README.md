@@ -109,15 +109,15 @@ Based on the analysis, the following actions could help improve business perform
 
 ### Pivot Table Analysis
 
-<img src="Pivot Table1.png" alt="Sales Analysis - Pivot Table 1" width="100%"/>
+<img src="Pivot Table Analysis1.png" alt="Sales Analysis - Pivot Table 1" width="100%"/>
 
 <br><br>
 
-<img src="Pivot Table2.png" alt="Sales Analysis - Pivot Table 2" width="100%"/>
+<img src="Pivot Table Analysis2.png" alt="Sales Analysis - Pivot Table 2" width="100%"/>
 
 <br><br>
 
-<img src="Pivot Table3.png" alt="Sales Analysis - Pivot Table 3" width="100%"/>
+<img src="Pivot Table Analysis3.png" alt="Sales Analysis - Pivot Table 3" width="100%"/>
 
 </div>
 

@@ -97,15 +97,27 @@ Based on the analysis, the following actions could help improve business perform
 
 <!-- Sales Performance Dashboard Screenshots -->
 
+<## 📈 Project Dashboard & Data Analysis
+
 <div align="center">
 
-<!-- Add Light Mode Screenshot -->
-<img src="Images/Light Mode.png" alt="Sales Dashboard - Light Mode" width="100%"/>
+### Main Sales Dashboard
+
+<img src="Dashboard.png" alt="Sales Performance Dashboard" width="100%"/>
 
 <br><br>
 
-<!-- Add Dark Mode Screenshot -->
-<img src="Images/Dark Mode.png" alt="Sales Dashboard - Dark Mode" width="100%"/>
+### Pivot Table Analysis
+
+<img src="Pivot Table1.png" alt="Sales Analysis - Pivot Table 1" width="100%"/>
+
+<br><br>
+
+<img src="Pivot Table2.png" alt="Sales Analysis - Pivot Table 2" width="100%"/>
+
+<br><br>
+
+<img src="Pivot Table3.png" alt="Sales Analysis - Pivot Table 3" width="100%"/>
 
 </div>
 

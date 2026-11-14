@@ -109,22 +109,7 @@ Based on the analysis, the following actions could help improve business perform
 
 </div>
 
-## 📂 Project Structure
 
-```text
-Sales-Performance-Analysis/
-│
-├── Dataset/
-│
-├── PowerBI/
-│   └── Sales_Performance_Dashboard.pbix
-│
-├── Images/
-│   ├── Light Mode.png
-│   └── Dark Mode.png
-│
-└── README.md
-```
 
 ## 📌 Conclusion
 
